@@ -1,0 +1,36 @@
+<CExplosionInfoManager>
+  <aExplosionTagData>
+    <Item>
+      <name>EXP_TAG_NAPC_CANNON</name>
+      <damageAtCentre value="0.1" />
+      <damageAtEdge value="0.05" />
+      <networkPlayerModifier value="2" />
+      <networkPedModifier value="1" />
+      <endRadius value="2.5" />
+      <initSpeed value="25" />
+      <decayFactor value="-1" />
+      <forceFactor value="1000" />
+      <fRagdollForceModifier value="0.00265" />
+      <fSelfForceModifier value="1" />
+      <directedWidth value="0" />
+      <directedLifeTime value="0" />
+      <camShakeName>GRENADE_EXPLOSION_SHAKE</camShakeName>
+      <camShake value="0.2" />
+      <camShakeRollOffScaling value="1" />
+      <shockingEventVisualRangeOverride value="-1" />
+      <shockingEventAudioRangeOverride value="-1" />
+      <minorExplosion value="true" />
+      <vfxTagHashName>EXP_VFXTAG_GRENADE</vfxTagHashName>
+      <fragDamage value="1500" />
+      <bAppliesContinuousDamage value="false" />
+      <bPostProcessCollisionsWithNoForce value="true" />
+      <bDamageVehicles value="true" />
+      <bDamageObjects value="true" />
+      <bOnlyAffectsLivePeds value="false" />
+      <bIgnoreExplodingEntity value="false" />
+      <bNoOcclusion value="false" />
+      <explodeAttachEntityWhenFinished value="false" />
+      <bCanSetPedOnFire value="true" />
+    </Item>
+  </aExplosionTagData>
+</CExplosionInfoManager>

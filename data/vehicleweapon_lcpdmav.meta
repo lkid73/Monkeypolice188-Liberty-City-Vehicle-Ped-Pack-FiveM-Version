@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- LC VEHICLE PACK, VERSION 1.2.5 -->
+<!-- DO NOT DISTRIBUTE WITHOUT THE PERMISSION OF THE CREATORS! -->
+<CWeaponInfoBlob>
+  <SlotNavigateOrder>
+    <Item />
+  </SlotNavigateOrder>
+  <SlotBestOrder />
+  <AimingInfos />
+  <Infos>
+    <Item>
+      <Infos>
+        <Item type="CWeaponInfo">
+          <Name>VEHICLE_WEAPON_HELI_LIGHT</Name>
+          <Model />
+          <Audio />
+          <Slot />
+          <DamageType>NONE</DamageType>
+          <Explosion>
+            <Default>DONTCARE</Default>
+            <HitCar>DONTCARE</HitCar>
+            <HitTruck>DONTCARE</HitTruck>
+            <HitBike>DONTCARE</HitBike>
+            <HitBoat>DONTCARE</HitBoat>
+            <HitPlane>DONTCARE</HitPlane>
+          </Explosion>
+          <FireType>NONE</FireType>
+          <WheelSlot>WHEEL_PISTOL</WheelSlot>
+          <Group />
+          <AmmoInfo ref="NULL" />
+          <AimingInfo ref="MG_LOW_BASE_STRAFE" />
+          <ClipSize value="0" />
+          <AccuracySpread value="1" />
+          <AccurateModeAccuracyModifier value="0.5" />
+          <RunAndGunAccuracyModifier value="2" />
+          <RecoilAccuracyMax value="1" />
+          <RecoilErrorTime value="3" />
+          <RecoilRecoveryRate value="1" />
+          <RecoilAccuracyToAllowHeadShotAI value="1000" />
+          <MinHeadShotDistanceAI value="1000" />
+          <MaxHeadShotDistanceAI value="1000" />
+          <HeadShotDamageModifierAI value="1000" />
+          <RecoilAccuracyToAllowHeadShotPlayer value="0.175" />
+          <MinHeadShotDistancePlayer value="5" />
+          <MaxHeadShotDistancePlayer value="40" />
+          <HeadShotDamageModifierPlayer value="18" />
+          <Damage value="150" />
+          <DamageTime value="0" />
+          <DamageTimeInVehicle value="0" />
+          <DamageTimeInVehicleHeadShot value="0" />
+          <HitLimbsDamageModifier value="0.5" />
+          <NetworkHitLimbsDamageModifier value="0.8" />
+          <LightlyArmouredDamageModifier value="0.75" />
+          <Force value="75" />
+          <ForceHitPed value="150" />
+          <ForceHitVehicle value="3500" />
+          <ForceHitFlyingHeli value="3500" />
+          <OverrideForces />
+          <ForceMaxStrengthMult value="1" />
+          <ForceFalloffRangeStart value="0" />
+          <ForceFalloffRangeEnd value="50" />
+          <ForceFalloffMin value="1" />
+          <ProjectileForce value="0" />
+          <FragImpulse value="2000" />
+          <Penetration value="0.1" />
+          <VerticalLaunchAdjustment value="0" />
+          <DropForwardVelocity value="0" />
+          <Speed value="0" />
+          <BulletsInBatch value="0" />
+          <BatchSpread value="0" />
+          <ReloadTimeMP value="-1" />
+          <ReloadTimeSP value="-1" />
+          <VehicleReloadTime value="-1" />
+          <AnimReloadRate value="0" />
+          <BulletsPerAnimLoop value="0" />
+          <TimeBetweenShots value="0" />
+          <TimeLeftBetweenShotsWhereShouldFireIsCached value="-1" />
+          <SpinUpTime value="0" />
+          <SpinTime value="0" />
+          <SpinDownTime value="0" />
+          <AlternateWaitTime value="-1" />
+          <BulletBendingNearRadius value="0" />
+          <BulletBendingFarRadius value="0.75" />
+          <BulletBendingZoomedRadius value="0.375" />
+          <Fx>
+            <EffectGroup>WEAPON_EFFECT_GROUP_VEHICLE_MG</EffectGroup>
+            <FlashFx>muz_mounted_turret</FlashFx>
+            <FlashFxAlt />
+            <ShellFx>eject_mounted_turret</ShellFx>
+            <TracerFx>bullet_tracer_turret</TracerFx>
+            <PedDamageHash>BulletLarge</PedDamageHash>
+            <TracerFxChanceSP value="0.6" />
+            <TracerFxChanceMP value="0.8" />
+            <FlashFxChanceSP value="1" />
+            <FlashFxChanceMP value="1" />
+            <FlashFxAltChance value="0" />
+            <FlashFxScale value="1.5" />
+          </Fx>
+          <InitialRumbleDuration value="0" />
+          <InitialRumbleIntensity value="1" />
+          <InitialRumbleIntensityTrigger value="0.95" />
+          <RumbleDuration value="0" />
+          <RumbleIntensity value="1" />
+          <RumbleIntensityTrigger value="0.85" />
+          <RumbleDamageIntensity value="1" />
+          <NetworkPlayerDamageModifier value="1" />
+          <NetworkPedDamageModifier value="1" />
+          <NetworkHeadShotPlayerDamageModifier value="1.5" />
+          <LockOnRange value="0" />
+          <WeaponRange value="0" />
+          <BulletDirectionOffsetInDegrees value="0" />
+          <AiSoundRange value="-1" />
+          <AiPotentialBlastEventRange value="-1" />
+          <DamageFallOffRangeMin value="500" />
+          <DamageFallOffRangeMax value="500" />
+          <DamageFallOffModifier value="1" />
+          <VehicleWeaponHash>VEHICLE_DATA_TURRET_INSURGENT</VehicleWeaponHash>
+          <DefaultCameraHash>INSURGENT_TURRET_CAMERA</DefaultCameraHash>
+          <AimCameraHash>INSURGENT_TURRET_AIM_CAMERA</AimCameraHash>
+          <FireCameraHash>INSURGENT_TURRET_FIRE_CAMERA</FireCameraHash>
+          <CoverCameraHash />
+          <CoverReadyToFireCameraHash />
+          <AssistedAimingCameraHash />
+          <AlternativeOrScopedCameraHash />
+          <AssistedAlternativeOrScopedCameraHash />
+          <CameraFov value="35" />
+          <ZoomFactorForAccurateMode value="1" />
+          <RecoilShakeHash>MG_RECOIL_SHAKE</RecoilShakeHash>
+          <RecoilShakeHashFirstPerson>FPS_MG_RECOIL_SHAKE</RecoilShakeHashFirstPerson>
+          <AccuracyOffsetShakeHash>DEFAULT_THIRD_PERSON_ACCURACY_OFFSET_SHAKE</AccuracyOffsetShakeHash>
+          <MinTimeBetweenRecoilShakes value="100" />
+          <RecoilShakeAmplitude value="0.2" />
+          <ExplosionShakeAmplitude value="-1" />
+          <ReticuleHudPosition x="0.5" y="0.5" />
+          <AimOffsetMin x="0.285" y="0.175" z="0.275" />
+          <AimProbeLengthMin value="0.525" />
+          <AimOffsetMax x="0.225" y="-0.05" z="0.4" />
+          <AimProbeLengthMax value="0.415" />
+          <TorsoAimOffset x="-0.9" y="0.55" />
+          <TorsoCrouchedAimOffset x="0.1" y="0.12" />
+          <LeftHandIkOffset x="0.015" y="0.095" z="-0.008" />
+          <ReticuleMinSizeStanding value="0.6" />
+          <ReticuleMinSizeCrouched value="0.5" />
+          <ReticuleScale value="0.3" />
+          <ReticuleStyleHash>WEAPON_INVALID</ReticuleStyleHash>
+          <FirstPersonReticuleStyleHash />
+          <PickupHash />
+          <MPPickupHash />
+          <HumanNameHash>WT_INVALID</HumanNameHash>
+          <MovementModeConditionalIdle />
+          <StatName>TURR</StatName>
+          <KnockdownCount value="-1" />
+          <KillshotImpulseScale value="1" />
+          <NmShotTuningSet>Normal</NmShotTuningSet>
+          <AttachPoints />
+          <GunFeedBone />
+          <TargetSequenceGroup />
+          <WeaponFlags>Gun UsableOnFoot ForceEjectShellAfterFiring Turret StaticReticulePosition ApplyVehicleDamageToEngine Vehicle</WeaponFlags>
+          <TintSpecValues ref="TINT_DEFAULT" />
+          <FiringPatternAliases ref="NULL" />
+          <ReloadUpperBodyFixupExpressionData ref="DEFAULT" />
+          <AmmoDiminishingRate value="0" />
+          <AimingBreathingAdditiveWeight value="1" />
+          <FiringBreathingAdditiveWeight value="1" />
+          <StealthAimingBreathingAdditiveWeight value="0" />
+          <StealthFiringBreathingAdditiveWeight value="0" />
+          <AimingLeanAdditiveWeight value="1" />
+          <FiringLeanAdditiveWeight value="1" />
+          <StealthAimingLeanAdditiveWeight value="0" />
+          <StealthFiringLeanAdditiveWeight value="0" />
+          <ExpandPedCapsuleRadius value="0" />
+          <HudDamage value="30" />
+          <HudSpeed value="60" />
+          <HudCapacity value="50" />
+          <HudAccuracy value="40" />
+          <HudRange value="60" />
+        </Item>
+      </Infos>
+    </Item>
+  </Infos>
+  <VehicleWeaponInfos />
+  <Name>HELI_LIGHT</Name>
+</CWeaponInfoBlob>

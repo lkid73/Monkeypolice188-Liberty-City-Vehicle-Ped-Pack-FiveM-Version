@@ -1,0 +1,206 @@
+<!-- medical - health -->
+      <rewards>
+        <Item>REWARD_HEALTH_ENTER_VEHICLE</Item>
+        <Item>REWARD_STAT_HEALTH</Item>
+      </rewards>
+
+<!-- fire department - light -->
+      <rewards>
+        <Item>REWARD_WEAPON_CROWBAR</Item>
+        <Item>REWARD_STAT_WEAPON</Item>
+      </rewards>
+<!-- fire department - med -->
+      <rewards>
+        <Item>REWARD_WEAPON_CROWBAR</Item>
+        <Item>REWARD_WEAPON_FLASHLIGHT</Item>
+        <Item>REWARD_HEALTH_ENTER_VEHICLE</Item>
+        <Item>REWARD_STAT_HEALTH</Item>
+        <Item>REWARD_STAT_WEAPON</Item>
+      </rewards>
+<!-- fire department - med 2 -->
+      <rewards>
+        <Item>REWARD_WEAPON_WRENCH</Item>
+        <Item>REWARD_WEAPON_CROWBAR</Item>
+        <Item>REWARD_WEAPON_FLASHLIGHT</Item>
+        <Item>REWARD_HEALTH_ENTER_VEHICLE</Item>
+        <Item>REWARD_STAT_HEALTH</Item>
+        <Item>REWARD_STAT_WEAPON</Item>
+      </rewards>
+<!-- fire department - heavy -->
+      <rewards>
+        <Item>REWARD_WEAPON_FLASHLIGHT</Item>
+        <Item>REWARD_WEAPON_HAMMER</Item>
+        <Item>REWARD_WEAPON_PETROLCAN</Item>
+        <Item>REWARD_AMMO_PETROLCAN</Item>
+        <Item>REWARD_HEALTH_ENTER_VEHICLE</Item>
+        <Item>REWARD_STAT_HEALTH</Item>
+        <Item>REWARD_STAT_WEAPON</Item>
+      </rewards>
+<!-- fire department - extra heavy -->
+      <rewards>
+        <Item>REWARD_WEAPON_CROWBAR</Item>
+        <Item>REWARD_WEAPON_FLASHLIGHT</Item>
+        <Item>REWARD_WEAPON_PETROLCAN</Item>
+        <Item>REWARD_AMMO_PETROLCAN</Item>
+        <Item>REWARD_WEAPON_HAZARDCAN</Item>
+        <Item>REWARD_AMMO_HAZARDCAN</Item>
+        <Item>REWARD_HEALTH_ENTER_VEHICLE</Item>
+        <Item>REWARD_STAT_HEALTH</Item>
+        <Item>REWARD_STAT_WEAPON</Item>
+      </rewards>
+<!-- police - extra light -->
+      <rewards>
+        <Item>REWARD_WEAPON_NIGHTSTICK</Item>
+        <Item>REWARD_WEAPON_PISTOL</Item>
+        <Item>REWARD_AMMO_PISTOL</Item>
+        <Item>REWARD_STAT_WEAPON</Item>
+      </rewards>
+<!-- police - light -->
+      <rewards>
+        <Item>REWARD_WEAPON_FLASHLIGHT</Item>
+        <Item>REWARD_WEAPON_NIGHTSTICK</Item>
+        <Item>REWARD_WEAPON_STUNGUN</Item>
+        <Item>REWARD_AMMO_STUNGUN</Item>
+        <Item>REWARD_STAT_WEAPON</Item>
+      </rewards>
+<!-- police - med -->
+      <rewards>
+        <Item>REWARD_WEAPON_FLASHLIGHT</Item>
+        <Item>REWARD_WEAPON_NIGHTSTICK</Item>
+        <Item>REWARD_WEAPON_PUMPSHOTGUN</Item>
+        <Item>REWARD_AMMO_PUMPSHOTGUN_ENTER_VEHICLE</Item>
+        <Item>REWARD_WEAPON_STUNGUN</Item>
+        <Item>REWARD_AMMO_STUNGUN</Item>
+        <Item>REWARD_STAT_WEAPON</Item>
+      </rewards>
+<!-- police - med 2 -->
+      <rewards>
+        <Item>REWARD_WEAPON_FLASHLIGHT</Item>
+        <Item>REWARD_WEAPON_NIGHTSTICK</Item>
+        <Item>REWARD_WEAPON_COMBATPISTOL</Item>
+        <Item>REWARD_AMMO_COMBATPISTOL</Item>
+        <Item>REWARD_WEAPON_PUMPSHOTGUN</Item>
+        <Item>REWARD_AMMO_PUMPSHOTGUN_ENTER_VEHICLE</Item>
+        <Item>REWARD_WEAPON_STUNGUN</Item>
+        <Item>REWARD_AMMO_STUNGUN</Item>
+        <Item>REWARD_STAT_WEAPON</Item>
+      </rewards>
+<!-- police - med 3 -->
+      <rewards>
+        <Item>REWARD_WEAPON_FLASHLIGHT</Item>
+        <Item>REWARD_WEAPON_NIGHTSTICK</Item>
+        <Item>REWARD_WEAPON_PISTOL</Item>
+        <Item>REWARD_AMMO_PISTOL</Item>
+        <Item>REWARD_WEAPON_PUMPSHOTGUN</Item>
+        <Item>REWARD_AMMO_PUMPSHOTGUN_ENTER_VEHICLE</Item>
+        <Item>REWARD_WEAPON_STUNGUN</Item>
+        <Item>REWARD_AMMO_STUNGUN</Item>
+        <Item>REWARD_STAT_WEAPON</Item>
+      </rewards>
+<!-- police - heavy -->
+      <rewards>
+        <Item>REWARD_WEAPON_NIGHTSTICK</Item>
+        <Item>REWARD_WEAPON_FLASHLIGHT</Item>
+        <Item>REWARD_WEAPON_PISTOL</Item>
+        <Item>REWARD_AMMO_PISTOL</Item>
+        <Item>REWARD_WEAPON_CARBINERIFLE</Item>
+        <Item>REWARD_AMMO_CARBINERIFLE</Item>
+        <Item>REWARD_WEAPON_STUNGUN</Item>
+        <Item>REWARD_AMMO_STUNGUN</Item>
+        <Item>REWARD_STAT_WEAPON</Item>
+      </rewards>
+<!-- police - heavy 2 -->
+      <rewards>
+        <Item>REWARD_WEAPON_WRENCH</Item>
+        <Item>REWARD_WEAPON_CROWBAR</Item>
+        <Item>REWARD_WEAPON_FLASHLIGHT</Item>
+        <Item>REWARD_WEAPON_NIGHTSTICK</Item>
+        <Item>REWARD_WEAPON_PUMPSHOTGUN</Item>
+        <Item>REWARD_AMMO_PUMPSHOTGUN_ENTER_VEHICLE</Item>
+        <Item>REWARD_WEAPON_STUNGUN</Item>
+        <Item>REWARD_AMMO_STUNGUN</Item>
+        <Item>REWARD_STAT_WEAPON</Item>
+      </rewards>
+<!-- police - heavy armored -->
+      <rewards>
+        <Item>REWARD_ARMOUR</Item>
+        <Item>REWARD_WEAPON_FLASHLIGHT</Item>
+        <Item>REWARD_WEAPON_NIGHTSTICK</Item>
+        <Item>REWARD_WEAPON_PUMPSHOTGUN</Item>
+        <Item>REWARD_AMMO_PUMPSHOTGUN_ENTER_VEHICLE</Item>
+        <Item>REWARD_WEAPON_STUNGUN</Item>
+        <Item>REWARD_AMMO_STUNGUN</Item>
+        <Item>REWARD_STAT_WEAPON</Item>
+      </rewards>
+<!-- police - extra heavy -->
+      <rewards>
+        <Item>REWARD_WEAPON_WRENCH</Item>
+        <Item>REWARD_WEAPON_CROWBAR</Item>
+        <Item>REWARD_WEAPON_FLASHLIGHT</Item>
+        <Item>REWARD_WEAPON_NIGHTSTICK</Item>
+        <Item>REWARD_WEAPON_PUMPSHOTGUN</Item>
+        <Item>REWARD_AMMO_PUMPSHOTGUN_ENTER_VEHICLE</Item>
+        <Item>REWARD_WEAPON_STUNGUN</Item>
+        <Item>REWARD_AMMO_STUNGUN</Item>
+        <Item>REWARD_HEALTH_ENTER_VEHICLE</Item>
+        <Item>REWARD_STAT_HEALTH</Item>
+        <Item>REWARD_STAT_WEAPON</Item>
+      </rewards>
+<!-- police - extra heavy armored -->
+      <rewards>
+        <Item>REWARD_WEAPON_NIGHTSTICK</Item>
+        <Item>REWARD_WEAPON_FLASHLIGHT</Item>
+        <Item>REWARD_WEAPON_PISTOL</Item>
+        <Item>REWARD_AMMO_PISTOL</Item>
+        <Item>REWARD_WEAPON_CARBINERIFLE</Item>
+        <Item>REWARD_AMMO_CARBINERIFLE</Item>
+        <Item>REWARD_WEAPON_SMOKEGRENADE</Item>
+        <Item>REWARD_AMMO_SMOKEGRENADE</Item>
+        <Item>REWARD_WEAPON_PIPEBOMB</Item>
+        <Item>REWARD_AMMO_PIPEBOMB</Item>
+        <Item>REWARD_WEAPON_STUNGUN</Item>
+        <Item>REWARD_AMMO_STUNGUN</Item>
+        <Item>REWARD_STAT_WEAPON</Item>
+        <Item>REWARD_ARMOUR</Item>
+      </rewards>
+<!-- police - helicopters  -->
+      <rewards>
+        <Item>REWARD_WEAPON_SNIPERRIFLE</Item>
+        <Item>REWARD_AMMO_SNIPERRIFLE</Item>
+        <Item>REWARD_STAT_WEAPON</Item>
+        <Item>REWARD_PARACHUTE</Item>
+      </rewards>
+<!-- police - classic -->
+      <rewards>
+        <Item>REWARD_WEAPON_NIGHTSTICK</Item>
+        <Item>REWARD_WEAPON_MUSKET</Item>
+        <Item>REWARD_AMMO_MUSKET</Item>
+        <Item>REWARD_WEAPON_REVOLVER</Item>
+        <Item>REWARD_AMMO_REVOLVER</Item>
+        <Item>REWARD_STAT_WEAPON</Item>
+      </rewards>
+<!-- police - boats -->
+      <rewards>
+        <Item>REWARD_WEAPON_FLASHLIGHT</Item>
+        <Item>REWARD_WEAPON_CARBINERIFLE</Item>
+        <Item>REWARD_AMMO_CARBINERIFLE</Item>
+        <Item>REWARD_WEAPON_FLAREGUN</Item>
+        <Item>REWARD_AMMO_FLAREGUN</Item>
+        <Item>REWARD_STAT_WEAPON</Item>
+      </rewards>
+<!-- police - boats light -->
+      <rewards>
+        <Item>REWARD_WEAPON_FLASHLIGHT</Item>
+        <Item>REWARD_WEAPON_FLAREGUN</Item>
+        <Item>REWARD_AMMO_FLAREGUN</Item>
+        <Item>REWARD_STAT_WEAPON</Item>
+      </rewards>
+<!-- police - utility only -->
+      <rewards>
+        <Item>REWARD_WEAPON_WRENCH</Item>
+      </rewards>
+<!-- trash trucks -->
+      <rewards>
+        <Item>REWARD_WEAPON_BOTTLE</Item>
+        <Item>REWARD_WEAPON_WRENCH</Item>
+      </rewards>

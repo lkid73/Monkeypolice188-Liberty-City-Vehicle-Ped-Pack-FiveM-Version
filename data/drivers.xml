@@ -1,0 +1,174 @@
+<!-- medical !! ped does not exist !! -->
+      <drivers>
+        <Item>
+          <driverName>S_M_Y_LCParamedic_01</driverName>
+          <npcName>MS Paramedics</npcName>
+        </Item>
+      </drivers>
+<!-- fire department -->
+      <drivers>
+        <Item>
+          <driverName>S_M_Y_LCFireman_01</driverName>
+          <npcName>Fire Department of Liberty City</npcName>
+        </Item>
+      </drivers>
+<!-- fire department - utility -->
+      <drivers>
+        <Item>
+          <driverName>S_M_Y_LCFireman_01</driverName>
+          <npcName>Fire Department of Liberty City</npcName>
+        </Item>
+        <Item>
+          <driverName>S_M_M_AutoShop_01</driverName>
+          <npcName />
+        </Item>
+        <Item>
+          <driverName>S_M_M_AutoShop_02</driverName>
+          <npcName />
+        </Item>
+      </drivers>
+<!-- police - generic -->
+      <drivers>
+        <Item>
+          <driverName>IG_LCCop_01</driverName>
+          <npcName>LCPD Officer 01</npcName>
+        </Item>
+        <Item>
+          <driverName>IG_LCCop_02</driverName>
+          <npcName>LCPD Officer 02</npcName>
+        </Item>
+        <Item>
+          <driverName>IG_LCFatCop</driverName>
+          <npcName>LCPD Fat Officer</npcName>
+        </Item>
+        <Item>
+          <driverName>IG_LCCop_Traffic</driverName>
+          <npcName>LCPD Traffic Officer</npcName>
+        </Item>
+      </drivers>
+<!-- police - armored healthy only -->
+      <drivers>
+        <Item>
+          <driverName>IG_LCCop_Vest_01</driverName>
+          <npcName>LCPD Officer (Vest) 01</npcName>
+        </Item>
+        <Item>
+          <driverName>IG_LCCop_Vest_02</driverName>
+          <npcName>LCPD Officer (Vest) 02</npcName>
+        </Item>
+      </drivers>
+<!-- police - armored -->
+      <drivers>
+        <Item>
+          <driverName>IG_LCCop_Vest_01</driverName>
+          <npcName>LCPD Officer (Vest) 01</npcName>
+        </Item>
+        <Item>
+          <driverName>IG_LCCop_Vest_02</driverName>
+          <npcName>LCPD Officer (Vest) 02</npcName>
+        </Item>
+        <Item>
+          <driverName>IG_LCFatCop_Vest</driverName>
+          <npcName>LCPD Fat Officer (Vest)</npcName>
+        </Item>
+      </drivers>
+<!-- police - armored or swat -->
+      <drivers>
+        <Item>
+          <driverName>IG_LCCop_Vest_01</driverName>
+          <npcName>LCPD Officer (Vest) 01</npcName>
+        </Item>
+        <Item>
+          <driverName>IG_LCCop_Vest_02</driverName>
+          <npcName>LCPD Officer (Vest) 02</npcName>
+        </Item>
+        <Item>
+          <driverName>IG_LCSWAT</driverName>
+          <npcName>NOOSE Officer</npcName>
+        </Item>
+      </drivers>
+<!-- police - highway patrol -->
+      <drivers>
+        <Item>
+          <driverName>S_M_Y_LCHWayCop_01</driverName>
+          <npcName>LCPD Highway Officer</npcName>
+        </Item>
+      </drivers>
+<!-- police - traffic -->
+      <drivers>
+        <Item>
+          <driverName>IG_LCCop_Traffic</driverName>
+          <npcName>LCPD Traffic Officer</npcName>
+        </Item>
+      </drivers>
+<!-- swat only -->
+      <drivers>
+        <Item>
+          <driverName>IG_LCSWAT</driverName>
+          <npcName>NOOSE Officer</npcName>
+        </Item>
+      </drivers>
+<!-- fbi -->
+      <drivers>
+        <Item>
+          <driverName>LCFBI</driverName>
+          <npcName>FIB Agent 01</npcName>
+        </Item>
+        <Item>
+          <driverName>LCFBIDLC_01</driverName>
+          <npcName>FIB Agent 02</npcName>
+        </Item>
+      </drivers>
+<!-- taxi -->
+      <drivers>
+        <Item>
+          <driverName>A_M_Y_StLat_01</driverName>
+          <npcName />
+        </Item>
+      </drivers>
+<!-- postal -->
+      <drivers>
+        <Item>
+          <driverName>S_M_Y_Ups_02</driverName>
+          <npcName>Post OP Driver</npcName>
+        </Item>
+        <Item>
+          <driverName>S_M_M_GenTransport</driverName>
+          <npcName>Postal Driver</npcName>
+        </Item>
+      </drivers>
+<!-- public transport -->
+      <drivers>
+        <Item>
+          <driverName>S_M_M_LTA_01</driverName>
+          <npcName>LTA Driver</npcName>
+        </Item>
+      </drivers>
+<!-- generic pilot -->
+      <drivers>
+        <Item>
+          <driverName>S_M_M_Gentransport</driverName>
+          <npcName>Pilot</npcName>
+        </Item>
+      </drivers>
+<!-- trash trucks -->
+      <drivers>
+        <Item>
+          <driverName>s_m_y_lcgarbage</driverName>
+          <npcName>LSD Garbage Worker</npcName>
+        </Item>
+      </drivers>
+<!-- ice van -->
+      <drivers>
+        <Item>
+          <driverName>S_M_M_StrVend_01</driverName>
+          <npcName />
+        </Item>
+      </drivers>
+<!-- trooper -->
+      <drivers>
+        <Item>
+          <driverName>IG_LCSTrooper</driverName>
+          <npcName>Alderney State Trooper Officer</npcName>
+        </Item>
+      </drivers>

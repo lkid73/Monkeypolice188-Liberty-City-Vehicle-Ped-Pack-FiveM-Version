@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- LC VEHICLE PACK, VERSION 1.2.5 -->
+<!-- DO NOT DISTRIBUTE WITHOUT THE PERMISSION OF THE CREATORS! -->
+<fwClipSetManager>
+  <clipSets>
+    <Item type="fwClipSet" key="clipset@veh@aligns@lcpdsparrow@ds">
+      <fallbackId>clipset@veh@common@high_seat@ds</fallbackId>
+      <clipDictionaryName>veh@common@in_water@ds</clipDictionaryName>
+      <clipItems />
+      <moveNetworkFlags />
+    </Item>
+    <Item type="fwClipSet" key="clipset@veh@aligns@lcpdsparrow@ps">
+      <fallbackId>clipset@veh@common@high_seat@ps</fallbackId>
+      <clipDictionaryName>veh@common@in_water@ps</clipDictionaryName>
+      <clipItems />
+      <moveNetworkFlags />
+    </Item>
+    <Item type="fwClipSet" key="anim@veh@helicopter@lcpdsparrow@ds@enter_exit">
+      <fallbackId>clipset@veh@helicopter@ds@enter_exit</fallbackId>
+      <clipDictionaryName>anim@veh@helicopter@lcpdsparrow@ds@enter_exit</clipDictionaryName>
+      <clipItems />
+      <moveNetworkFlags />
+    </Item>
+    <Item type="fwClipSet" key="anim@veh@helicopter@lcpdsparrow@ps@enter_exit">
+      <fallbackId>clipset@veh@helicopter@ps@enter_exit</fallbackId>
+      <clipDictionaryName>anim@veh@helicopter@lcpdsparrow@ps@enter_exit</clipDictionaryName>
+      <clipItems />
+      <moveNetworkFlags />
+    </Item>
+    <Item type="fwClipSet" key="anim@veh@helicopter@lcpdsparrow@side@ps@enter_exit">
+      <fallbackId />
+      <clipDictionaryName>anim@veh@helicopter@lcpdsparrow@side@ps@enter_exit</clipDictionaryName>
+      <clipItems />
+      <moveNetworkFlags />
+    </Item>
+    <Item type="fwClipSet" key="anim@veh@helicopter@lcpdsparrow@side@ps@exit_to_skydive">
+      <fallbackId />
+      <clipDictionaryName>anim@veh@helicopter@lcpdsparrow@side@ps@enter_exit</clipDictionaryName>
+      <clipItems>
+        <Item type="fwClipItem" key="exit_to_skydive" />
+      </clipItems>
+      <moveNetworkFlags />
+    </Item>
+    <Item type="fwClipSet" key="anim@veh@helicopter@lcpdsparrow@side@ds@enter_exit">
+      <fallbackId />
+      <clipDictionaryName>anim@veh@helicopter@lcpdsparrow@side@ds@enter_exit</clipDictionaryName>
+      <clipItems />
+      <moveNetworkFlags />
+    </Item>
+    <Item type="fwClipSet" key="anim@veh@helicopter@lcpdsparrow@side@ds@exit_to_skydive">
+      <fallbackId />
+      <clipDictionaryName>anim@veh@helicopter@lcpdsparrow@side@ds@enter_exit</clipDictionaryName>
+      <clipItems>
+        <Item type="fwClipItem" key="exit_to_skydive" />
+      </clipItems>
+      <moveNetworkFlags />
+    </Item>
+    <Item type="fwClipSet" key="anim@veh@driveby@lcpdsparrow@side@ds@0h">
+      <fallbackId />
+      <clipDictionaryName>anim@veh@driveby@lcpdsparrow@side@ds@0h</clipDictionaryName>
+      <clipItems />
+      <moveNetworkFlags />
+    </Item>
+    <Item type="fwClipSet" key="anim@veh@driveby@lcpdsparrow@side@ds@1h">
+      <fallbackId />
+      <clipDictionaryName>anim@veh@driveby@lcpdsparrow@side@ds@1h</clipDictionaryName>
+      <clipItems />
+      <moveNetworkFlags />
+    </Item>
+    <Item type="fwClipSet" key="anim@veh@driveby@lcpdsparrow@side@ds@2h">
+      <fallbackId />
+      <clipDictionaryName>anim@veh@driveby@lcpdsparrow@side@ds@2h</clipDictionaryName>
+      <clipItems />
+      <moveNetworkFlags />
+    </Item>
+    <Item type="fwClipSet" key="anim@veh@driveby@lcpdsparrow@side@ds@throw">
+      <fallbackId />
+      <clipDictionaryName>anim@veh@driveby@lcpdsparrow@side@ds@throw</clipDictionaryName>
+      <clipItems />
+      <moveNetworkFlags />
+    </Item>
+    <Item type="fwClipSet" key="anim@veh@driveby@lcpdsparrow@side@ps@0h">
+      <fallbackId />
+      <clipDictionaryName>anim@veh@driveby@lcpdsparrow@side@ps@0</clipDictionaryName>
+      <clipItems />
+      <moveNetworkFlags />
+    </Item>
+    <Item type="fwClipSet" key="anim@veh@driveby@lcpdsparrow@side@ps@1h">
+      <fallbackId />
+      <clipDictionaryName>anim@veh@driveby@lcpdsparrow@side@ps@1h</clipDictionaryName>
+      <clipItems />
+      <moveNetworkFlags />
+    </Item>
+    <Item type="fwClipSet" key="anim@veh@driveby@lcpdsparrow@side@ps@2h">
+      <fallbackId />
+      <clipDictionaryName>anim@veh@driveby@lcpdsparrow@side@ps@2h</clipDictionaryName>
+      <clipItems />
+      <moveNetworkFlags />
+    </Item>
+    <Item type="fwClipSet" key="anim@veh@driveby@lcpdsparrow@side@ps@throw">
+      <fallbackId />
+      <clipDictionaryName>anim@veh@driveby@lcpdsparrow@side@ps@throw</clipDictionaryName>
+      <clipItems />
+      <moveNetworkFlags />
+    </Item>
+    <Item type="fwClipSet" key="amb@code_human_on_lctrash@rear_ds@base">
+      <fallbackId />
+      <clipDictionaryName>veh@truck@firetruck@rear_ds</clipDictionaryName>
+      <clipItems>
+        <Item type="fwClipItem" key="sit" />
+      </clipItems>
+      <moveNetworkFlags />
+    </Item>
+    <Item type="fwClipSet" key="amb@code_human_on_lctrash@rear_ps@base">
+      <fallbackId />
+      <clipDictionaryName>veh@truck@firetruck@rear_ps</clipDictionaryName>
+      <clipItems>
+        <Item type="fwClipItem" key="sit" />
+      </clipItems>
+      <moveNetworkFlags />
+    </Item>
+  </clipSets>
+</fwClipSetManager>

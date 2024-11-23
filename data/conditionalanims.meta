@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- LC VEHICLE PACK, VERSION 1.2.5 -->
+<!-- DO NOT DISTRIBUTE WITHOUT THE PERMISSION OF THE CREATORS! -->
+<CConditionalAnimManager>
+  <ConditionalAnimsGroup>
+    <Item type="CConditionalAnimsGroup">
+      <Name>ON_BIKE_LCPDB</Name>
+      <ConditionalAnims>
+        <Item>
+          <Name>CODE_HUMAN_ON_BIKE_IDLES_LCPDB_DRIVER</Name>
+          <PropSet />
+          <Flags />
+          <Probability value="100" />
+          <SpecialConditionProbability value="0" />
+          <SpecialCondition type="NULL" />
+          <NextIdleTime value="1" />
+          <ChanceOfSpawningWithAnything value="0.33" />
+          <BlendInDelta value="4" />
+          <BlendOutDelta value="-4" />
+          <GestureClipSetId />
+          <VFXData />
+          <VFXCullRange value="25" />
+          <TransitionInfo type="NULL" />
+          <Conditions>
+            <Item type="CScenarioConditionInVehicleSeat">
+              <Result>True</Result>
+              <SeatIndex value="0" />
+            </Item>
+            <Item type="CScenarioConditionCanPlayInCarIdle">
+              <Result>True</Result>
+            </Item>
+          </Conditions>
+          <LowLodBaseAnim />
+          <BaseAnims>
+            <Item type="CConditionalClipSet">
+              <ClipSet>AMB@CODE_HUMAN_ON_BIKE_IDLES_POLICE_DRIVER@BASE</ClipSet>
+              <AssociatedSpeech />
+              <Conditions />
+              <ActionFlags />
+            </Item>
+          </BaseAnims>
+          <Enters />
+          <Exits />
+          <Variations>
+            <Item type="CConditionalClipSet">
+              <ClipSet>AMB@CODE_HUMAN_ON_BIKE_IDLES_POLICE_DRIVER@IDLE_A</ClipSet>
+              <AssociatedSpeech />
+              <Conditions />
+              <ActionFlags />
+            </Item>
+          </Variations>
+          <Reactions />
+          <PanicBaseAnims />
+          <PanicIntros />
+          <PanicOutros />
+          <PanicVariations />
+          <PanicExits />
+        </Item>
+      </ConditionalAnims>
+    </Item>
+  </ConditionalAnimsGroup>
+</CConditionalAnimManager>
